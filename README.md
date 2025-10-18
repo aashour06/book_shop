@@ -1,9 +1,9 @@
-📚 Books Database Management System
+# 📚 Books Database Management System
 
 A Python-based project for managing and exploring book data stored in a CSV file and an SQLite database.
 This application enables users to view available books, check categories, and get prices using simple command-line interactions.
 
-🚀 Features
+ #🚀 Features
 
 📖 Display All Books – Lists all book titles from the database.
 
